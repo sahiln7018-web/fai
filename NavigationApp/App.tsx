@@ -59,3 +59,6 @@ export default function App() {
     </NavigationContainer>
   );
 }
+//cd fai/NavigationApp
+// npm install
+//npx expo start 

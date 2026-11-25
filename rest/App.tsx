@@ -136,3 +136,9 @@ const styles = StyleSheet.create({
     color: 'red', fontSize: 16, marginTop: 20, textAlign: 'center',
   },
 });
+
+
+
+//cd fai/rest
+//npm install
+//npx expo start 
